@@ -18,4 +18,4 @@ I wanted to give myself a refresher on JavaScript, HTML and CSS before taking it
 I use the live server extension for VSCode to host the website temporarily, this is what I would reccomend. It can be downloaded from the extensions section in VSCode.
 
 ### Where could I improve?
-* Paint Bucket: Learning more about CSS content. Even after completing this project I still feel I have many gaps in my knowledge in terms of the different controls CSS offers.
+* CSS Coding: Learning more about CSS content. Even after completing this project I still feel I have many gaps in my knowledge in terms of the different controls CSS offers. The difference between justify-content and align-items are still not clear to me but I'm sure with time I will become more familiar.
